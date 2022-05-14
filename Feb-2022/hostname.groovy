@@ -1,5 +1,5 @@
 node {
     stage('Show Hostname') {
-        sh "hostname"
+        sh "hostname" 
     }
 }
